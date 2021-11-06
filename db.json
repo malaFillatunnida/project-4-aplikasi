@@ -1,0 +1,18 @@
+{
+  "users": [
+    {
+      "id": 0,
+      "namaSiswa": "Alifa",
+      "judulBuku": "Dilan 1990",
+      "tanggalPinjam": "7-10-21",
+      "tanggalPengembalian": "17-10-21"
+    },
+    {
+      "id": 1,
+      "namaSiswa": "Reno",
+      "judulBuku": "Maryposa",
+      "tanggalPinjam": "1-9-21",
+      "tanggalPengembalian": "10-9-21"
+    }
+  ]
+}
